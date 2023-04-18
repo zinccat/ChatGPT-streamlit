@@ -1,0 +1,10 @@
+import openai
+
+# use your own key
+
+openai_key = 'sk-xxx'
+anthropic_key = 'sk-ant-xxx'
+hf_key = 'Bearer xxx'
+
+# Set org ID and API key
+openai.api_key = openai_key

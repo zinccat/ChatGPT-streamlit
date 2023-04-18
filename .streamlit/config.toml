@@ -1,0 +1,19 @@
+[theme]
+
+primaryColor="#002b36"
+backgroundColor="#002b36"
+secondaryBackgroundColor="#586e75"
+textColor="#fafafa"
+font="sans serif"
+
+[server]
+runOnSave = true
+headless = true
+port = 8052
+
+[browser]
+gatherUsageStats = false
+# serverAddress = "127.0.0.1"
+
+[client]
+showErrorDetails = false

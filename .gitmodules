@@ -1,0 +1,3 @@
+[submodule "PromptSafe"]
+	path = PromptSafe
+	url = https://github.com/zinccat/PromptSafe

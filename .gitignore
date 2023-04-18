@@ -1,3 +1,8 @@
+key.py
+
+embeddings/*.npy
+history/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

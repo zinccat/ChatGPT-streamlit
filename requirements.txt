@@ -1,0 +1,17 @@
+anthropic==0.2.7
+brotlipy==0.7.0
+conda-env-export==0.4.5
+conda-package-handling==2.0.2
+graphviz==0.20.1
+htbuilder==0.6.1
+matplotlib==3.7.1
+memory-profiler==0.61.0
+openai==0.27.4
+pip==22.3.1
+pyOpenSSL==22.0.0
+PyQt5==5.15.9
+PySocks==1.7.1
+SPARQLWrapper==2.0.0
+streamlit-agraph==0.0.45
+streamlit-chat==0.0.2.2
+wheel==0.37.1
