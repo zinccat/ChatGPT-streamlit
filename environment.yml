@@ -1,4 +1,4 @@
-name: base
+name: chatgpt-streamlit
 channels:
   - defaults
 dependencies:
