@@ -1,6 +1,8 @@
 # ChatGPT-streamlit
 使用Streamlit构建的易于使用的ChatGPT用户界面，可用于ChatGPT、Claude、Stable Diffusion等。
 
+支持流式输出、下载聊天记录、重新生成等功能。
+
 Easy to use ChatGPT UI built with Streamlit for using ChatGPT, Claude, Stable Diffusion and beyond.
 
 ![demo](figures/demo.png)
