@@ -5,6 +5,8 @@
 
 Easy to use ChatGPT UI built with Streamlit for using ChatGPT, Claude, Stable Diffusion and beyond.
 
+The code is built upon https://github.com/marshmellow77/streamlit-chatgpt-ui , many thanks!
+
 ![demo](figures/demo.png)
 
 使用方法 (Usage):
