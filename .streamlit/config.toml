@@ -13,7 +13,7 @@ port = 8052
 
 [browser]
 gatherUsageStats = false
-# serverAddress = "127.0.0.1"
+serverAddress = "127.0.0.1"
 
 [client]
 showErrorDetails = false
