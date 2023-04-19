@@ -59,9 +59,6 @@ if use_promptsafe:
 
 model = get_model(model_name)
 
-if prompt_name == "北大树洞审核员":
-    use_promptsafe = False
-
 if st.session_state['generated']:
     show_history()
 
