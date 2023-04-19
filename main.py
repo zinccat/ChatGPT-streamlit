@@ -19,11 +19,10 @@ init()
 
 # Sidebar - let user choose model, show total cost of current conversation, and let user clear the current conversation
 with st.sidebar:
-    st.sidebar.title("Exobrain")
+    st.sidebar.title("ChatGPT")
     model_name = st.selectbox("选择模型:", get_model_list())
     prompt_name = st.selectbox("请选择提示词:", get_prompt_list())
     stream_mode = st.radio("是否使用流式输出:", ("Yes", "No"), horizontal=True)
-    st.markdown("联系方式: admin@exobrain.me")
     # counter_placeholder.write(f"Total cost of this conversation: ${st.session_state['total_cost']:.5f}")
     clear_button = st.button("清除对话历史", key="clear")
     # with st.form(key='key_form', clear_on_submit=True):
